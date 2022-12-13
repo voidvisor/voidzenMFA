@@ -1,4 +1,4 @@
-package com.voidzen2fa.newarchitecture.modules;
+package com.voidzen.mfa.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

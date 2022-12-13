@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.voidzen2fa">
+  package="com.voidzen.mfa">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

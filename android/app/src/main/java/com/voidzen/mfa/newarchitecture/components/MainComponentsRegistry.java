@@ -1,4 +1,4 @@
-package com.voidzen2fa.newarchitecture.components;
+package com.voidzen.mfa.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

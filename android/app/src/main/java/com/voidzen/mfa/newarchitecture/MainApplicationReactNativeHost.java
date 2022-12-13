@@ -1,4 +1,4 @@
-package com.voidzen2fa.newarchitecture;
+package com.voidzen.mfa.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.voidzen2fa.BuildConfig;
-import com.voidzen2fa.newarchitecture.components.MainComponentsRegistry;
-import com.voidzen2fa.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.voidzen.mfa.BuildConfig;
+import com.voidzen.mfa.newarchitecture.components.MainComponentsRegistry;
+import com.voidzen.mfa.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
